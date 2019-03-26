@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Do You Even PR?"
+---
 We in the software industry are super familiar with the github/gitlab/bitbucket Pull Request (PR) workflow.  Much of this PR muscle comes from slinging open-source software, and for good reason.
 
 When working on a close-knit team, why do we push PRs and then move on to something else?
