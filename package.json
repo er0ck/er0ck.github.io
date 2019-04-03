@@ -1,0 +1,26 @@
+{
+  "name": "erict-net",
+  "version": "1.0.0",
+  "description": "testing my blog",
+  "main": "index.html",
+  "scripts": {
+    "build": "bundle exec jekyll build --config _config.yml",
+    "test": "bin/test"
+  },
+  "author": "erict",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^21.2.0",
+    "babel-preset-env": "^1.6.0",
+    "fs-extra": "^7.0.1",
+    "jest": "^21.2.1",
+    "jest-cli": "^21.2.1",
+    "lodash": "^4.17.11"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
