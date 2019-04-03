@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "8.9.1" # 8.9.1 is pre-installed, specify full version to pin
+before_install:
+  - rvm install 2.4.1 # 2.4.1 is pre-installed
+  - gem install bundler
+  - bundle install
