@@ -3,9 +3,9 @@ layout: post
 title:  "Hiring is Hard. Hiring a QA/SDET/DevTest is Harder"
 ---
 
-I wrote this post for Puppet’s internal blog towards the end of 2017. _This film has been modified from its original version. It has been formatted to fit this screen and edited for content._
+_I wrote this post for Puppet’s internal blog towards the end of 2017. This film has been modified from its original version. It has been formatted to fit this screen and edited for content._
 
-Yes, _DevTest_. Like DevOps but, you know, testier. You heard it here first.
+Yeah, _DevTest_. Like DevOps but, you know, testier. You heard it here first.
 
 People are always asking me, “Hey you! How do we hire for a quality-focused software engineer?. A test evangelist. A Quality Maven.” My over-answer, you can find herein.
 
@@ -22,11 +22,20 @@ Who we want
 
 Let’s assume we all agree that everyone owns quality. We need enthusiastic and experienced software engineers who already possess a “focus on quality” and willingness to iterate and learn. “Focus-on-quality” can mean anything from ‘has heard of unit tests’ to ‘tests everything, all the way, every time’. Neither of these are realistic, the latter is probably impossible.
 
-How important quality-focus is for a given team, depends. It depends upon their acceptable risk level, and the current team make-up. I know this is not a great, “easy” answer. Sorry, you are going to have to ask your team <gasp>. ![Statue of child gasping](https://c.pxhere.com/photos/93/8e/child_statue_bronze_outside_outdoors_summer_children_shock-1334495.jpg!d)
+How important quality-focus is for a given team, depends. It depends upon their acceptable risk level, and the current team make-up. I know this is not a great, “easy” answer. Sorry, you are going to have to ask your team <gasp>.
+
+![gasping turtle](https://live.staticflickr.com/53/136663050_53518d11ba_b.jpg)
 
 team autonomy?
 
 In general, teams i’ve worked on probably have too much testing <gasp again>. Better stated, we probably have had too much investment in testing in the wrong places, and an overly-developed aversion to risk. This manifests as long-feedback cycles, flaky tests, engineer frustration and quality issues (how ironic); aka: cost. Teams need to determine their acceptable risk, for now, then adjust. Teams need to invest in burning down tech-debt, then do it again. Some of this tech-debt is testing and other feedback cycle costs (builds, promotions, deployments). Not addressing tech-debt manifests in attrition (how ironic) and other issues.
+
+Who one team wanted ❄🦄
+-----------------------
+
+We wanted, and found, a Sr. SW Engineer, with QA focus and performance experience and expertise. We have automation and tooling needs (internal), and the QA and performance mindset to go along with it.
+
+In one of our teams, we based our hiring process on the very successful strategies from the Puppet QA team. We tailored the strategy a bit around successes at other companies and the needs of our team.
 
 -   less focus on hard requirements
 -   a dedicated focus on inclusion, diversity and getting more applicants to reply
@@ -97,9 +106,10 @@ TL;DR:
 
 ### **To Remote or not to remote**
 
+https://media.licdn.com/dms/image/C5612AQEvrZAvF_U--g/article-inline_image-shrink_1500_2232/0?e=1560384000&v=beta&t=HVemnEs_eeGe71MySU2SdwWFCj9c53Ebl1WjHcWL1RE
 ![](https://media.licdn.com/dms/image/C5612AQEvrZAvF_U--g/article-inline_image-shrink_1500_2232/0?e=1560384000&v=beta&t=HVemnEs_eeGe71MySU2SdwWFCj9c53Ebl1WjHcWL1RE)
 
-This is about as in-control remote people feel ->
+This is about as in-control remote people feel ^^
 
 Some are inclined to say whether or not to remote depends on the team also, but does it? In our experience, the only way to do this right is if all team members have the same level of access, communication, geo and time-diversity restrictions. i.e.: they are all remote or each in a different office.
 
