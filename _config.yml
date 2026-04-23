@@ -1,5 +1,23 @@
 title: erict.net
+description: Eric Thompson's blog
+url: "https://erict.net"
+
 theme: minima
-exclude: [Gemfile*, bin, jest.config.js, node_modules, package*]
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 disqus:
   shortname: erictdotnet
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - _drafts
+  - _obsidian-templates
+  - .obsidian
