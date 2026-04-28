@@ -10,7 +10,7 @@ tags:
 
 "It took 9 seconds." - after an agent deleted his entire production DB and all backups in a single API call. ([The Register](https://www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/))
 
-![](assets/images/sebastian-herrmann-Ili1gmB9Jes-unsplash.jpg)
+![](/assets/images/sebastian-herrmann-Ili1gmB9Jes-unsplash.jpg)
 (Photo by [Sebastian Herrmann](https://unsplash.com/@officestock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-man-sitting-in-front-of-a-laptop-computer-Ili1gmB9Jes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
 I've lost a lot of work before, not to this level. But, this has been a problem with automation before and is less about the tools and more about governance. Some things to think about if you haven't:
