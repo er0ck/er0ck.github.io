@@ -3,6 +3,7 @@ layout: post
 title: "The night shift is back, and it's called AI API Batching"
 date: 2026-09-18
 tags: [AI, Engineering, Software]
+image: /assets/images/ibm-2401-tape-drives.jpg
 ---
 
 OpenAI will sell you the same tokens for half price if you agree to wait. Submit a JSONL file, get a 24-hour SLA, get a separate pool of much higher rate limits, pay 50% of list. GPT-4o input drops from $2.50 to $1.25 per million tokens. Most batches actually come back in one to four hours.[1] Anthropic and Google both do the same thing at the same discount, which is usually a sign that nobody invented it, everybody derived it.[2]
